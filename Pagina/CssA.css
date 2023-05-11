@@ -1,0 +1,29 @@
+body {
+  background-color: #ff5050;
+}
+
+.Titulo{
+   
+    border-style : outset;
+    border-color: rgb(0, 106, 255);
+    border-radius : 1px;
+    border-width : 3px ;
+    color : rgb(0, 0, 0);
+  }
+
+.Borde{
+   
+    border-style : unset;
+    border-color: rgb(43, 7, 96);
+    border-radius : 2px;
+    border-width : 2px ;
+    color : rgb(29, 5, 16);
+}
+
+p {
+  font-size: 16px;
+  line-height: 1.5;
+  color: #210303;
+  margin: 10px 0;
+  font-family: Arial, sans-serif;
+}
